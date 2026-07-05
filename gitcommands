@@ -31,9 +31,3 @@ git push -u origin main
 git remote add origin https://github.com/ADHANKI-MANIKANTA/dockerdemo.git
 git branch -M main
 git push -u origin main
-
-
-
-changes in existing repository
-git clone
-and added few lines of code into this branch and commited the changes and pushed to remote repository.
